@@ -148,3 +148,8 @@ For academic or project-related inquiries, please contact:  [quynh.hoang@hva.nl]
 
 ---
 
+## Data Confidentiality
+
+This project was conducted using proprietary company data.  In compliance with data security policies, the datasets are not publicly shared.
+
+---
