@@ -77,6 +77,7 @@ venv\Scripts\activate        # Windows
 source venv/bin/activate     # macOS/Linux
 
 pip install -r requirements.txt
+```
 
 ### 2. Data Preparation
 
@@ -118,13 +119,31 @@ output/images/product_<product_id>/
 
 ---
 
-## references
+## References
 
+1. Ramos, P., Santos, N., & Rebelo, R. (2015). *Performance of state space and ARIMA models for consumer retail sales forecasting*. Robotics and Computer-Integrated Manufacturing, 34, 151–163. https://doi.org/10.1016/j.rcim.2015.01.002
+
+2. Parmezan, A. R. S., Souza, V. M., & Batista, G. E. (2019). *Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model*. Information Sciences, 484, 302–337. https://doi.org/10.1016/j.ins.2019.01.076
+   
+---
+
+## Acknowledgements
+
+This project was supported through academic, business, and domain expertise by:
+
+- **Dr. Debarati Bhaumik** — Academic Supervisor, Amsterdam University of Applied Sciences (HvA)  
+- **Mr. Raymond Dinh** — Company Supervisor, LTP Company  
+- **Mr. Trung Nguyen** — Independent Expert in Inventory and Supply Chain Management
+
+Their guidance and feedback contributed significantly to the design and evaluation of the forecasting models.
 
 ---
 
 ## Contact
-This project was developed by Quynh Hoang
-Master’s Thesis at Amsterdam University of Applied Sciences (HvA)
-In collaboration with LTP Company
-For academic inquiries, please contact: quynh.hoang@hva.nl
+
+This project was developed by **Quynh Hoang**  as part of the Master’s Thesis in the **Digital Driven Business** program  at the **Amsterdam University of Applied Sciences (HvA)**,  in collaboration with **LTP Company**.
+
+For academic or project-related inquiries, please contact:  [quynh.hoang@hva.nl](mailto:quynh.hoang@hva.nl)
+
+---
+
