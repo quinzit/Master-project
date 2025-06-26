@@ -115,8 +115,9 @@ Comparisons are made across products and model types to identify the best-perfor
 ## Forecast Plots
 
 Each model generates a prediction plot comparing actual vs. predicted sales on the test set. These plots are stored in:
+```bash
 output/images/product_<product_id>/
-
+```
 ---
 
 ## References
